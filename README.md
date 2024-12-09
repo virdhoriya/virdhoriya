@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @virdhoriya
-- 🌱 I’m currently learning MERN stach development
+- 🌱 I’m currently learning MERN stack
+-  development
 - 📫 How to reach me virdhoriya@gmail.com
 
